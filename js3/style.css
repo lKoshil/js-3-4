@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.container{
+    background-color: rgb(216, 219, 206);
+}
+
+.active {
+    background-color: #ccffcc;
+   }    
